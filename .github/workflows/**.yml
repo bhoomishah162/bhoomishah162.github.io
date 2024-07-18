@@ -28,7 +28,7 @@ jobs:
         uses: victornpb/notion-jam@v0.0.10
         with:
           NOTION_SECRET: ${{ secrets.NOTION_SECRET }}
-          NOTION_DATABASE: https://bhoomi162.notion.site/Bhoomi-Shah-s-Portfolio-f472699bf7894894b902a82311448366
+          NOTION_DATABASE: https://notion.so/0bc40de5f605426f8c02d9260102aabf
           FILTER_PROP: Status
           FILTER_VALUES: Published
           CONVERT_PROP_CASE: snake
